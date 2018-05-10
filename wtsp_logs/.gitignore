@@ -1,0 +1,5 @@
+# Ignore everything in this directory, except this file itself.
+# this makes git create this directory when the repo is cloned,
+# while avoiding making specific program outputs part of any commit.
+*
+!.gitignore
